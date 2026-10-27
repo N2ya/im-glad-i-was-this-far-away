@@ -1,0 +1,11 @@
+
+# Go build outputs
+/igfa
+/igfa.exe
+
+# Go test binaries
+*.test
+
+# Go coverage and profiling outputs
+*.out
+
